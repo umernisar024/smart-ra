@@ -79,6 +79,8 @@ pages:
       title: Adapting Guidelines for Country use
     license.md:
       title: License
+    architects_guide.md:
+      title: Architect's Guide
   business-requirements.md:
     title: Business Requirements
     concepts.md:
@@ -144,6 +146,7 @@ menu:
     Dependencies: dependencies.html
     References: references.html
     Adapting Guidelines for Country use: adapting.html
+    Architect Guide: architects_guide.html
   Business Requirements: 
     Concepts: concepts.html
     Generic Personas: personas.html
