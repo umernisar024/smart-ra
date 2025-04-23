@@ -32,9 +32,9 @@ For the production of content, we utilize the [HL7 FHIR IG Publisher](https://bu
 The Digital Adaptation Kits (DAKs) provide a structured set of business requirements for digital health applications.  While some of these artifacts will be or are already being developed using standards for business requirements (e.g. BPMN, DMN tables) this artifacts are primarily designed for accurate representation of business needs from subject matter experts by business analysts. We are developing tooling to automate or ease the development of corresponding L3 artifacts in terms of HL7 FHIR Resources.
 
 One essential component of this is the definition and representation of the appropriate requirements (as FHIR Requirements resources)  and system or human actors (as FHIR ActorDefinition resources).  (Draft) examples include:
-* [DAK: Birth Defects Surveillance](http://worldhealthorganization.github.io/smart-dak-bds/artifcats.html) from the [system requirements](https://worldhealthorganization.github.io/smart-dak-bds/system-requirements.html)
-* [DAK: Clinical Care in Crises](http://worldhealthorganization.github.io/smart-dak-ccc/artifcats.html) from the [system requirements](https://worldhealthorganization.github.io/smart-dak-bds/system-requirements.html)
-* [DAK: Immunizations](http://worldhealthorganization.github.io/smart-dak-immz/artifcats.html) from the [system requirements](https://worldhealthorganization.github.io/smart-dak-immz/system-requirements.html)
+* [DAK: Birth Defects Surveillance](http://worldhealthorganization.github.io/smart-dak-bds/artifacts.html) from the [system requirements](https://worldhealthorganization.github.io/smart-dak-bds/system-requirements.html)
+* [DAK: Clinical Care in Crises](http://worldhealthorganization.github.io/smart-dak-ccc/artifacts.html) from the [system requirements](https://worldhealthorganization.github.io/smart-dak-bds/system-requirements.html)
+* [DAK: Immunizations](http://worldhealthorganization.github.io/smart-dak-immz/artifacts.html) from the [system requirements](https://worldhealthorganization.github.io/smart-dak-immz/system-requirements.html)
 
 
 Another essential component are the generic business processes and workflows (which we are standardizing to BPMN diagrams for computability).  These workflows outline the main functionality needed for the actors/generic personas.  The Reference Architecture shall define the digital health infrastructural components and necessary transactions (e.g. messages sent via APIs) to realize these workflows.
