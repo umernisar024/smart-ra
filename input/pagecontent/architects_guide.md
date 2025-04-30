@@ -66,8 +66,8 @@ These components should be brought into the architecture by identifying a specif
 The following people are contributing to the core architecture
 * Carl Leitner (WHO)
 * Rada Hussein (LBG)
+* José Costa Teixeira (Belgium)
 * Anusree Jayakrishnan (Centre for Digital Public Infrastructure)
-
 
 
 
