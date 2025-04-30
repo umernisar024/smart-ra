@@ -65,6 +65,7 @@ These components should be brought into the architecture by identifying a specif
 ==To Do:== add your name 
 The following people are contributing to the core architecture
 * Carl Leitner (WHO)
+* Anusree Jayakrishnan (Centre for Digital Public Infrastructure)
 
 
 
