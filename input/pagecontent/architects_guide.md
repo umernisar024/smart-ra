@@ -67,6 +67,7 @@ The following people are contributing to the core architecture
 * Carl Leitner (WHO)
 * José Costa Teixeira (Belgium)
 * Anusree Jayakrishnan (Centre for Digital Public Infrastructure)
+* Umer Nisar (CSIRO)
 
 
 
