@@ -15,8 +15,8 @@ The machine-readable DPI-H Reference Architecture aims to provide a modular, sta
 1. Define requirements for interoperability across domains and services.  
 2. Define generic user personas, systems, functional roles, and processes across the health system to model user scenarios and system interactions that DPI-H components are expected to support.  
 3. Define how national foundational digital infrastructure (e.g., identity, consent, messaging) integrates with health-sector infrastructure components (e.g., shared health repositories, registries). *— at architectural level*  
-4. Define mechanisms (e.g., APIs, inputs, outputs, triggers, workflows) to enable interoperability between digital public infrastructure components and applications supporting service delivery, data exchange, and decision-making. *— at operational level*  
-5. Define trust services (e.g., pseudonymization, consent enforcement, de-identification) required for secure and ethical data exchange in specific use cases.  
+4. ~~Define mechanisms (e.g., APIs, inputs, outputs, triggers, workflows) to enable interoperability between digital public infrastructure components and applications supporting service delivery, data exchange, and decision-making. *— at operational level*~~  
+5. Define trust services required for secure and ethical data exchange
 6. Define reusable architectural patterns to support country-level customization while ensuring alignment with global conformance requirements.
 
 ## Out of Scope
